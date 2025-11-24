@@ -7,17 +7,18 @@
 
 ---
 
-### 🙋‍♀️ About Me
+### 💗 About Me
 
 - 🎓 B.Tech CSE (GITAM, Vizag)
 - 💻 Love solving problems using **Data Structures & Algorithms**
 - ☕ Main language: **Java**
 - 🌱 Currently learning: OOP, DSA, Git & GitHub
 - 🎯 Goal: Become a strong problem solver and build real-world projects
+- 💡 *Focused on growing as a Java developer and DSA problem solver.*
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
 - **Languages:** Java, Python (basics), C (college labs)  
 - **Core CS:** Data Structures & Algorithms, OOP  
