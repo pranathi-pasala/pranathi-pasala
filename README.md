@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Pranathi 👩‍💻</h1>
-<p align="center"><b>CSE Student @ GITAM | DSA & Java Enthusiast</b></p>
+<div align="center">
+
+# Hi, I'm Pranathi 👩‍💻  
+### CSE Student @ GITAM | DSA & Java Enthusiast
+
+</div>
 
 ---
 
